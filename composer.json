@@ -1,0 +1,15 @@
+{
+  "name": "abc-mobile/test",
+  "description": "Test task for ABC Mobile",
+  "license": "CC BY-NC-ND",
+  "authors": [
+    {
+      "name": "Alexei Ivanitskii",
+      "email": "login4log@ya.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.0",
+    "ext-mbstring": "*"
+  }
+}
